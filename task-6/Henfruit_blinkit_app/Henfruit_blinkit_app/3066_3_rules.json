@@ -1,0 +1,85 @@
+{
+"Date": {
+    "has_empty": "false",
+    "data_type": "str",
+    "date_format": "%d/%m/%Y"
+},
+"Region":{
+    "has_empty": "false",
+     "data_type": "str"
+},
+"City": {
+    "has_empty": "false",
+    "data_type": "str"
+},
+"Pin Code":{
+    "has_empty": "false",
+    "data_type": "str,int"
+},
+"Group": {
+    "has_empty": "false",
+    "data_type": "str"
+},
+"Product ID":{
+    "has_empty": "false",
+    "data_type": "str,int,float"
+},
+"Merchant Id": {
+    "has_empty": "false",
+    "data_type": "int,float,str"
+},
+"Item Name":{
+    "has_empty": "false",
+    "data_type": "str"
+},
+"Item Link":{
+    "has_empty": "false",
+    "data_type": "str"
+},
+"Selling Price at 11:00 AM":{
+    "has_empty": "false",
+    "data_type": "float,int"
+},
+"MRP at 11:00 AM":{
+    "has_empty": "false",
+    "data_type": "float,int"
+},
+
+"Discount running":{
+    "has_empty": "false",
+    "data_type": "int,float"
+},
+
+"Disc %":{
+    "has_empty": "false",
+    "data_type": "float"
+},
+"07:00:00 AM":{
+    "has_empty": "false",
+    "data_type": "str"
+},
+"09:00:00 AM":{
+    "has_empty": "false",
+    "data_type": "str"
+},
+"11:00:00 AM":{
+    "has_empty": "false",
+    "data_type": "str"
+},
+"total hours":{
+    "has_empty": "false",
+    "data_type": "int,float,str"
+},
+"Live hours":{
+    "has_empty": "false",
+    "data_type": "int,float,str"
+},
+"offline hours":{
+    "has_empty": "false",
+    "data_type": "int,float,str"
+},
+"Availability":{
+    "has_empty": "false",
+    "data_type": "float"
+}
+}
